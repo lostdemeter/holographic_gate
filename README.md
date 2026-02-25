@@ -173,4 +173,4 @@ This defines three natural regions on the real line. For SiLU (`x · σ(x)`), th
 
 ## License
 
-MIT
+GPLv3
