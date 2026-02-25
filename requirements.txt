@@ -1,0 +1,5 @@
+numpy
+
+# Optional: for full Qwen2-7B reproduction (--model qwen2)
+# torch
+# transformers
